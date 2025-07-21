@@ -1,12 +1,9 @@
-# React + Vite
+                                                          🎨 React Color Picker App
+Create a playful React app where clicking colored buttons instantly changes a big preview area’s background, plus a handy ‘Reset to white’ button to start fresh!
+My UI
+<img width="945" height="775" alt="image" src="https://github.com/user-attachments/assets/8cb9ad31-f505-452f-9a34-6c45e81d9297" />
+Mobile screern  UI
+<img width="556" height="844" alt="image" src="https://github.com/user-attachments/assets/0eac632d-0c76-4337-9797-ec640032fcd8" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+                                                          
+                                                          
